@@ -2,6 +2,7 @@
 #### Referentiemateriaal
 *Referentiemateriaal dat ik zelf binnen eigen architecturen hergebruik*
 - [Ziekenhuis referentie architectuur](/personal/zira/index.html?view=id-3fdbf41977534a7fb9e6d14743942e0e)
+- [Referentie domeinmodel care](/personal/rdc/index.html?view=EAID_19580AED_B75B_4d35_9ED3_EA091B8F6D23)
 
 
 #### Analyses
