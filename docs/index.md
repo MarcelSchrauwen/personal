@@ -10,6 +10,7 @@
 #### Analyses
 *Onderwerpen waarvan ik meer wil begrijpen*
 - [Wetten & regels](/personal/wettenenregels/index.html?view=id-0a3ae2c5f4e74e0390a5c9f9b397285f)
+- [Normen](/personal/normen/index.html?view=id-682968cde63141d4a2343f354bb352fd)
 - [Generieke functies](/personal/generieke-functies/index.html?view=id-82ae95854ad6467789e03c0e4586e566)
 
 
