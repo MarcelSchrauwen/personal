@@ -3,4 +3,4 @@
 
 
 # Schetsen
-[Persoonlijke aantekeningen](./Aantekeningen/index.html)
+[Persoonlijke aantekeningen](/Aantekeningen/index.html)
