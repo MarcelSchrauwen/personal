@@ -1,7 +1,10 @@
-# Referentiemodellen
-*Bestaande modellen die ik regelmatig gebruik*
+# Referentiemateriaal
 
+
+
+# Analyses
+- [Generieke functies](/generieke-functies/index.html)
 
 
 # Schetsen
-[Persoonlijke aantekeningen](/Aantekeningen/index.html)
+- [Persoonlijke aantekeningen](/schetsen/index.html)
