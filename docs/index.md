@@ -1,4 +1,5 @@
 
+### Zorg
 #### Referentiemateriaal
 *Referentiemateriaal dat ik zelf binnen eigen architecturen hergebruik*
 - [Ziekenhuis referentie architectuur](/personal/zira/index.html?view=id-3fdbf41977534a7fb9e6d14743942e0e)
@@ -12,6 +13,10 @@
 - [Wetten & regels](/personal/wettenenregels/index.html?view=id-0a3ae2c5f4e74e0390a5c9f9b397285f)
 
 
+### Architectuur
+####
+
+### Algemeen
 #### Schetsen
 - [Persoonlijke aantekeningen](/personal/schetsen/index.html?view=id-bdaecf9ada1f4b0bac487b79e7fe4b1f)
 
